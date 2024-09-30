@@ -1,0 +1,11 @@
+D:\Rohan\Documents\Rust Programming\amethyst-starter-2d-master\target\debug\deps\clipboard_win-a9c068140f975241.rmeta: C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\clipboard-win-2.2.0\src/lib.rs C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\clipboard-win-2.2.0\src\utils.rs C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\clipboard-win-2.2.0\src\formats.rs C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\clipboard-win-2.2.0\src\raw.rs C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\clipboard-win-2.2.0\src\image.rs
+
+D:\Rohan\Documents\Rust Programming\amethyst-starter-2d-master\target\debug\deps\libclipboard_win-a9c068140f975241.rlib: C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\clipboard-win-2.2.0\src/lib.rs C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\clipboard-win-2.2.0\src\utils.rs C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\clipboard-win-2.2.0\src\formats.rs C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\clipboard-win-2.2.0\src\raw.rs C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\clipboard-win-2.2.0\src\image.rs
+
+D:\Rohan\Documents\Rust Programming\amethyst-starter-2d-master\target\debug\deps\clipboard_win-a9c068140f975241.d: C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\clipboard-win-2.2.0\src/lib.rs C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\clipboard-win-2.2.0\src\utils.rs C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\clipboard-win-2.2.0\src\formats.rs C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\clipboard-win-2.2.0\src\raw.rs C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\clipboard-win-2.2.0\src\image.rs
+
+C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\clipboard-win-2.2.0\src/lib.rs:
+C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\clipboard-win-2.2.0\src\utils.rs:
+C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\clipboard-win-2.2.0\src\formats.rs:
+C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\clipboard-win-2.2.0\src\raw.rs:
+C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\clipboard-win-2.2.0\src\image.rs:

@@ -1,0 +1,13 @@
+cargo:rustc-env=VERGEN_SEMVER_LIGHTWEIGHT=UNKNOWN
+cargo:rustc-env=VERGEN_TARGET_TRIPLE=x86_64-pc-windows-msvc
+cargo:rustc-env=VERGEN_RUSTC_CHANNEL=stable
+cargo:rustc-env=VERGEN_BUILD_DATE=2023-02-14
+cargo:rustc-env=VERGEN_SEMVER=UNKNOWN
+cargo:rustc-env=VERGEN_RUSTC_SEMVER=1.67.1
+cargo:rustc-env=VERGEN_SHA_SHORT=UNKNOWN
+cargo:rustc-env=VERGEN_HOST_TRIPLE=x86_64-pc-windows-msvc
+cargo:rustc-env=VERGEN_COMMIT_DATE=UNKNOWN
+cargo:rustc-env=VERGEN_BUILD_TIMESTAMP=2023-02-14T15:15:17.412415200+00:00
+cargo:rustc-env=VERGEN_SHA=UNKNOWN
+cargo:rustc-env=VERGEN_BRANCH=UNKNOWN
+cargo:rerun-if-changed=build.rs

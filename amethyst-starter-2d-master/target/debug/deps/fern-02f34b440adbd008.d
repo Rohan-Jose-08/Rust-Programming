@@ -1,0 +1,12 @@
+D:\Rohan\Documents\Rust Programming\amethyst-starter-2d-master\target\debug\deps\fern-02f34b440adbd008.rmeta: C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\fern-0.6.1\src\lib.rs C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\fern-0.6.1\src\builders.rs C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\fern-0.6.1\src\errors.rs C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\fern-0.6.1\src\log_impl.rs C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\fern-0.6.1\src\colors.rs C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\fern-0.6.1\src\meta.rs
+
+D:\Rohan\Documents\Rust Programming\amethyst-starter-2d-master\target\debug\deps\libfern-02f34b440adbd008.rlib: C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\fern-0.6.1\src\lib.rs C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\fern-0.6.1\src\builders.rs C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\fern-0.6.1\src\errors.rs C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\fern-0.6.1\src\log_impl.rs C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\fern-0.6.1\src\colors.rs C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\fern-0.6.1\src\meta.rs
+
+D:\Rohan\Documents\Rust Programming\amethyst-starter-2d-master\target\debug\deps\fern-02f34b440adbd008.d: C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\fern-0.6.1\src\lib.rs C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\fern-0.6.1\src\builders.rs C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\fern-0.6.1\src\errors.rs C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\fern-0.6.1\src\log_impl.rs C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\fern-0.6.1\src\colors.rs C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\fern-0.6.1\src\meta.rs
+
+C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\fern-0.6.1\src\lib.rs:
+C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\fern-0.6.1\src\builders.rs:
+C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\fern-0.6.1\src\errors.rs:
+C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\fern-0.6.1\src\log_impl.rs:
+C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\fern-0.6.1\src\colors.rs:
+C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\fern-0.6.1\src\meta.rs:

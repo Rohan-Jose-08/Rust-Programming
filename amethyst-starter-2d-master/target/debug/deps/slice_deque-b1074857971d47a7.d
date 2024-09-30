@@ -1,0 +1,11 @@
+D:\Rohan\Documents\Rust Programming\amethyst-starter-2d-master\target\debug\deps\slice_deque-b1074857971d47a7.rmeta: C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\slice-deque-0.3.0\src\lib.rs C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\slice-deque-0.3.0\src\macros.rs C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\slice-deque-0.3.0\src\mirrored\mod.rs C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\slice-deque-0.3.0\src\mirrored\buffer.rs C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\slice-deque-0.3.0\src\mirrored\winapi.rs
+
+D:\Rohan\Documents\Rust Programming\amethyst-starter-2d-master\target\debug\deps\libslice_deque-b1074857971d47a7.rlib: C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\slice-deque-0.3.0\src\lib.rs C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\slice-deque-0.3.0\src\macros.rs C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\slice-deque-0.3.0\src\mirrored\mod.rs C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\slice-deque-0.3.0\src\mirrored\buffer.rs C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\slice-deque-0.3.0\src\mirrored\winapi.rs
+
+D:\Rohan\Documents\Rust Programming\amethyst-starter-2d-master\target\debug\deps\slice_deque-b1074857971d47a7.d: C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\slice-deque-0.3.0\src\lib.rs C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\slice-deque-0.3.0\src\macros.rs C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\slice-deque-0.3.0\src\mirrored\mod.rs C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\slice-deque-0.3.0\src\mirrored\buffer.rs C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\slice-deque-0.3.0\src\mirrored\winapi.rs
+
+C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\slice-deque-0.3.0\src\lib.rs:
+C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\slice-deque-0.3.0\src\macros.rs:
+C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\slice-deque-0.3.0\src\mirrored\mod.rs:
+C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\slice-deque-0.3.0\src\mirrored\buffer.rs:
+C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\slice-deque-0.3.0\src\mirrored\winapi.rs:

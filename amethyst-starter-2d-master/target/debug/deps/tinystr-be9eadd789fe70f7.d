@@ -1,0 +1,12 @@
+D:\Rohan\Documents\Rust Programming\amethyst-starter-2d-master\target\debug\deps\tinystr-be9eadd789fe70f7.rmeta: C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\tinystr-0.3.4\src\lib.rs C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\tinystr-0.3.4\src\helpers.rs C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\tinystr-0.3.4\src\tinystr16.rs C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\tinystr-0.3.4\src\tinystr4.rs C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\tinystr-0.3.4\src\tinystr8.rs C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\tinystr-0.3.4\src\tinystrauto.rs
+
+D:\Rohan\Documents\Rust Programming\amethyst-starter-2d-master\target\debug\deps\libtinystr-be9eadd789fe70f7.rlib: C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\tinystr-0.3.4\src\lib.rs C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\tinystr-0.3.4\src\helpers.rs C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\tinystr-0.3.4\src\tinystr16.rs C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\tinystr-0.3.4\src\tinystr4.rs C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\tinystr-0.3.4\src\tinystr8.rs C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\tinystr-0.3.4\src\tinystrauto.rs
+
+D:\Rohan\Documents\Rust Programming\amethyst-starter-2d-master\target\debug\deps\tinystr-be9eadd789fe70f7.d: C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\tinystr-0.3.4\src\lib.rs C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\tinystr-0.3.4\src\helpers.rs C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\tinystr-0.3.4\src\tinystr16.rs C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\tinystr-0.3.4\src\tinystr4.rs C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\tinystr-0.3.4\src\tinystr8.rs C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\tinystr-0.3.4\src\tinystrauto.rs
+
+C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\tinystr-0.3.4\src\lib.rs:
+C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\tinystr-0.3.4\src\helpers.rs:
+C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\tinystr-0.3.4\src\tinystr16.rs:
+C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\tinystr-0.3.4\src\tinystr4.rs:
+C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\tinystr-0.3.4\src\tinystr8.rs:
+C:\Users\Rohan\.cargo\registry\src\github.com-1ecc6299db9ec823\tinystr-0.3.4\src\tinystrauto.rs:
